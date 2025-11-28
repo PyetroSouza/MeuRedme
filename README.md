@@ -1,14 +1,6 @@
-<h2 align="left">Olá Mundo!! Prazer Pyetro!</h2>
+<h2 align="center">Olá Mundo!! Prazer Pyetro!</h2>
+<p align= "justify"> No momento, estou cursando curso técnico de desenvolvimento de sistemas na instituição Senai Jandira </p>
 
-<p> No momento, estou cursando curso técnico de desenvolvimento de sistemas na instituição Senai Jandira </p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PyetroSouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  ###
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PyetroSouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ### Linguagens e Tecnologias 
 
@@ -20,6 +12,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+</div>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PyetroSouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ### Redes Sociais 
@@ -37,6 +32,7 @@
 
 <br clear="both">
 
+![Snake animation](https://github.com/PyetroSouza/PyetroSouza/blob/output/github-contribution-grid-snake.svg)
 <img src="https://raw.githubusercontent.com/PyetroSouza/PyetroSouza/output/snake.svg" alt="Snake animation" />
 
 ###

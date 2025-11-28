@@ -1,5 +1,7 @@
 <h2 align="left">Olá Mundo!! Prazer Pyetro!</h2>
 
+<p> No momento, estou cursando curso técnico de desenvolvimento de sistemas na instituição Senai Jandira </p>
+
 ###
 
 <div align="center">

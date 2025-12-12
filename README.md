@@ -1,5 +1,9 @@
 <h2 align="center">Olá Mundo!! Prazer, Pyetro!</h2>
-<p align= "justify"> No momento, estou cursando curso técnico de desenvolvimento de sistemas na instituição, Senai Jandira. </p>
+<p align= "justify"> Olá! Sou Pyetro, estudante do Ensino Médio com Habilitação Profissional Técnica na ETEC Prefeito Braz Paschoalin e estudante em Técnico em Desenvolvimento de Sistemas no  SENAI Jandira no curso. </p>
+<p>Minha jornada na tecnologia começou por curiosidade, quando descobri o recurso “inspecionar” do navegador. A partir daí, passei a explorar como sites e sistemas funcionam por dentro, e essa curiosidade evoluiu para um interesse profundo em programação, algoritmos, desenvolvimento web e arquitetura de software.
+Atualmente, direciono minha formação para a área de Engenharia de Software, buscando aprimorar minhas habilidades técnicas e entender cada etapa da construção de soluções digitais. </p>
+<p>Meu objetivo é ingressar em uma universidade de referência na área, como UFSC, UFRGS ou PUCRS, onde pretendo aprofundar meus estudos em engenharia de software, computação de alto desempenho e fundamentos matemáticos da computação. Para isso, mantenho disciplina, foco e dedicação constante aos estudos.
+Busco oportunidades acadêmicas, programas de iniciação científica, intercâmbios e experiências que ampliem meu repertório técnico e minha capacidade de resolver problemas reais com criatividade, precisão e lógica. </p>
 
 ---
 

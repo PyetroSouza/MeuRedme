@@ -1,49 +1,70 @@
-<h2 align="center">Olá Mundo!! Prazer, Pyetro!</h2>
-<p align= "justify"> Olá! Sou Pyetro, estudante do Ensino Médio com Habilitação Profissional Técnica na ETEC Prefeito Braz Paschoalin e estudante em Técnico em Desenvolvimento de Sistemas no  SENAI Jandira no curso. </p>
-<p>Minha jornada na tecnologia começou por curiosidade, quando descobri o recurso “inspecionar” do navegador. A partir daí, passei a explorar como sites e sistemas funcionam por dentro, e essa curiosidade evoluiu para um interesse profundo em programação, algoritmos, desenvolvimento web e arquitetura de software.
-Atualmente, direciono minha formação para a área de Engenharia de Software, buscando aprimorar minhas habilidades técnicas e entender cada etapa da construção de soluções digitais. </p>
-<p>Meu objetivo é ingressar em uma universidade de referência na área, como UFSC, UFRGS ou PUCRS, onde pretendo aprofundar meus estudos em engenharia de software, computação de alto desempenho e fundamentos matemáticos da computação. Para isso, mantenho disciplina, foco e dedicação constante aos estudos.
-Busco oportunidades acadêmicas, programas de iniciação científica, intercâmbios e experiências que ampliem meu repertório técnico e minha capacidade de resolver problemas reais com criatividade, precisão e lógica. </p>
+<h2 align="center">Olá, eu sou o Pyetro 👋</h2>
+
+<p align="justify">
+Estudante do Ensino Médio com Habilitação Profissional Técnica pela ETEC Prefeito Braz Paschoalin e aluno do curso Técnico em Desenvolvimento de Sistemas no SENAI Jandira.
+Tenho interesse sólido em programação, desenvolvimento web e fundamentos de engenharia de software.
+</p>
+
+<p align="justify">
+Minha trajetória em tecnologia começou pela curiosidade em entender como sistemas funcionam internamente, o que evoluiu para o estudo de algoritmos, lógica de programação e arquitetura de software.
+Atualmente, direciono minha formação para Engenharia de Software, com foco em construir base técnica consistente e capacidade real de resolver problemas.
+</p>
+
+<p align="justify">
+Pretendo ingressar em uma universidade de referência como UFSC, UFRGS ou PUCRS, aprofundando estudos em engenharia de software, computação e fundamentos matemáticos da computação.
+Busco oportunidades acadêmicas, iniciação científica e experiências que ampliem minha maturidade técnica.
+</p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Linguagens e Tecnologias
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 </div>
 
----
-  <div align="center">
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PyetroSouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+<em>Em constante aprendizado e aprofundamento.</em>
+</p>
 
 ---
 
-### 📱Redes Sociais 
+### 📊 Linguagens mais utilizadas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PyetroSouza&layout=compact&langs_count=6&theme=dracula&hide_border=false&hide=html,css"/>
+</div>
+
+<p align="center">
+<em>Gráfico ajustado para evitar distorções por arquivos de marcação.</em>
+</p>
+
+---
+
+### 🌐 Redes Sociais
 
 <div align="center">
   <a href="https://www.instagram.com/pye_souza14/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/pyetro-ferreira-1a29ab194/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
 </div>
 
+---
 
- 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PyetroSouza/PyetroSouza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PyetroSouza/GabrielaZanetti/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PyetroSouza/PyetroSouza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/PyetroSouza/PyetroSouza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/PyetroSouza/PyetroSouza/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" 
+    src="https://raw.githubusercontent.com/PyetroSouza/PyetroSouza/output/github-contribution-grid-snake.svg">
 </picture>
